@@ -1,1 +1,1 @@
-# Calculator-using-html
+This is a simple Calculator web application built using HTML, CSS, and JavaScript. It provides a basic user interface for performing standard arithmetic operations like addition, subtraction, multiplication, and division. This project is intended as a beginner-level exercise to practice working with front-end technologies and JavaScript DOM manipulation. It's lightweight, responsive, and ideal for anyone looking to understand the fundamentals of building interactive web interfaces.
